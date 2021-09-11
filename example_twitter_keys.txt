@@ -1,0 +1,5 @@
+{"API_key": "xxx", 
+    "API_secret": "yyy",
+    "bearer_token": "zzz%2F98F7tLk2gasgasgasg",
+    "access_token": "fasfasf-fasfa",
+    "access_secret": "gggggg"}

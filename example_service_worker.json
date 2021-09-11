@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "afasfasfa",
+  "private_key_id": "asgasgasgasga",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nddddd\n-----END PRIVATE KEY-----\n",
+  "client_email": "fasfasf",
+  "client_id": "33333",
+  "auth_uri": "https:",
+  "token_uri": "https:",
+  "auth_provider_x509_cert_url": "https:",
+  "client_x509_cert_url": "https://"
+}
