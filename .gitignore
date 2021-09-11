@@ -127,6 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
 service_worker.json
 sheet_id.txt
 twitter_keys.txt
