@@ -14,5 +14,5 @@ if int(tyoaamuja) < 0 or int(aamuja_kaikkiaan) < 0:
     pass
 else:
     twiittaus.twiittaa(api, f"Työaamuja vielä jäljellä {tyoaamuja}\n"\
-        f"Aamuja kaikkiaan jäljellä {aamuja_kaikkiaan}\n"\
+        f"Aamuja töiden loppumiseen {aamuja_kaikkiaan}\n"\
             f"Aamuja tässä kaupungissa {hese_aamuja}")
